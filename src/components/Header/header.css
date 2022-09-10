@@ -1,0 +1,30 @@
+
+ 
+ h1 {
+    text-align: center;
+    color: red;
+    font-family:cursive;
+    
+}
+
+
+.menu  li{
+    display:inline-flex;
+    margin-left: 120px;
+    border: solid;
+    border-width: 3px;
+    border-color:black;
+    border-radius: 15px;
+    background-color: cadetblue;
+    font-family:cursive;
+    color: blue;
+    font-size: 20px;
+
+    
+}
+.menu {
+    background-color: brown;
+
+}
+
+
