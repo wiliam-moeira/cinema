@@ -5,10 +5,10 @@ function Header(){
   return(
   
     <header className="menu">
-      
+     <input></input> 
 <ul>
   <h1>Cinetec</h1>
-  <li>Drama</li>
+  <li><a href= "#">Drama</a></li>
   <li>comedia</li>
   <li>Ação</li>
   <li>Aventura</li>

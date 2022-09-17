@@ -6,3 +6,11 @@
   
   background-color: rgb(28, 27, 27);
 }
+
+  img{
+    width: 20%;
+    border: solid;
+    border-width: 6px;
+    border-color:black;
+    border-radius: 15px;
+  }

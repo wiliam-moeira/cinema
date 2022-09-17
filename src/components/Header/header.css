@@ -24,7 +24,10 @@
 }
 .menu {
     background-color: brown;
-
+border: solid;
+border-width: 3px;
+border-color: beige;
+    border-radius: 20px;
 }
 
 
